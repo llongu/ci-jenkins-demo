@@ -30,7 +30,7 @@
       ![avatar](./README/2.jpg)
       ![avatar](./README/3.jpg)
       ![avatar](./README/4.jpg)
-    - Publish over SSH 提交至测试服务器
+    - Publish over SSH 提交至线上服务器
       ![avatar](./README/5.jpg)
       ![avatar](./README/6.jpg)
     - 配置 ssh 需要测试服务器免密登录线上服务器
